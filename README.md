@@ -77,11 +77,11 @@
 
 Github中可以通过创建 `和自己Github ID 同名的仓库` 来修改自己的Github主页；
 
-例如：
+**例如：**
 
 - https://github.com/JasonkayZK/JasonkayZK
 
-教程：
+**教程：**
 
 - [GitHub个人主页美化教程](https://www.peterjxl.com/Git/GitHub-Profile-Beautify/)
 - [Github 美化设置个人主页](https://www.cnblogs.com/Cl0ud/p/13764921.html)
@@ -94,15 +94,15 @@ Github中可以通过创建 `和自己Github ID 同名的仓库` 来修改自己
 
 Github中可以通过创建名称为 `<your-gituhb-id>.github.io` 的仓库来创建并部署属于自己的博客网站！
 
-例如：
+**例如：**
 
 - https://jasonkayzk.github.io/
 
-官方文档如下：
+**官方文档如下：**
 
 - https://docs.github.com/zh/pages/quickstart
 
-一些实用的教程：
+**一些实用的教程：**
 
 - [一文带你使用 Github page 搭建自己的博客](https://juejin.cn/post/7291421672708128768)
 - [GitHub Pages 搭建教程](https://sspai.com/post/54608)
