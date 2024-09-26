@@ -62,5 +62,11 @@
 
 - https://github.com/pzxy-cs/git-train/issues
 
-2、尝试提出Pull Request，将你的分支合并到主分支（main）
+2、尝试提出Pull Request，将你的分支合并到主分支（main）【需要我审核】
+
+>
+> 任务三参考：
+>  - issue：https://github.com/pzxy-cs/git-train/issues/1
+>  - pull request：https://github.com/pzxy-cs/git-train/pull/2
+> 
 
