@@ -75,7 +75,7 @@
 
 ## 附加任务一：美化自己的Github主页
 
-Github中可以通过创建 `和自己Github ID 同名的仓库` 来修改自己的Github主页；
+Github中可以通过`在自己的个人空间`创建 `和自己Github ID 同名的仓库` 来修改自己的Github主页；
 
 **例如：**
 
@@ -92,7 +92,7 @@ Github中可以通过创建 `和自己Github ID 同名的仓库` 来修改自己
 
 ## 附加任务二：免费创建属于自己的博客网站
 
-Github中可以通过创建名称为 `<your-gituhb-id>.github.io` 的仓库来创建并部署属于自己的博客网站！
+Github中可以通过`在自己的个人空间`创建名称为 `<your-gituhb-id>.github.io` 的仓库来创建并部署属于自己的博客网站！
 
 **例如：**
 
